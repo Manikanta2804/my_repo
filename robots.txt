@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# Personal portfolio website
+# Temporarily blocking indexing due to SEO spam backlinks
+# No commercial services, phishing, or malware
