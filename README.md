@@ -35,11 +35,11 @@ This project follows basic web security best practices for static websites.
 
 If you find any security concerns, please report them responsibly.
 
-📧 Contact: **your-email@example.com**
+📧 Contact: **manikantasangani38@gmail.com.com**
 
 ---
 
 ## 🚀 Deployment
 The site is deployed using **GitHub Pages** and is publicly accessible.
 
-URL:
+URL:https://manikanta2804.github.io/robots.txt
